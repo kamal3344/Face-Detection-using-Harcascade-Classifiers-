@@ -1,4 +1,4 @@
-import cv2
+import cv
 
 def predict(use_case):
     cv2.imshow('image',use_case)
